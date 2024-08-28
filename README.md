@@ -4,6 +4,7 @@
 
 Я начинающий тестировщик. В 2024 году успешно завершил программу Testing в [учебном центре](https://edu.neoflex.ru/) компании Neoflex. Участвовал в хакатоне [Neo Hack](https://codenrock.com/contests/neo-hack-2024#/) в качестве тестировщика и капитана команды, состоящей из 9 человек. По результатам хакатона наша команда заняла [второе место](https://codenrock.com/users/84234/certificates/392).
 
+- Мое [резюме](https://drive.google.com/file/d/1_bSHuiriW49m0PKrpp-ZoUVM2BsY_DoX/view?usp=sharing).
 - Как связаться со мной: [![Mail Badge](https://img.shields.io/badge/-Mail-darkblue?style=flat&logo=Mail.ru&logoColor=white)](mailto:zaikinaa26@mail.ru), [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zaikin_AA).
 
 ---
