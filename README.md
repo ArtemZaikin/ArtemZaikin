@@ -13,4 +13,4 @@
 - Проектное задание от учебного центра компании Neoflex ([QA-project](https://github.com/ArtemZaikin/QA-project)).
 - Проектное задание от Нетологии по верстке сайта ([HTML-and-CSS-project](https://github.com/ArtemZaikin/HTML-and-CSS-project)).
 - Проектное задание от Нетологии по созданию чат-бота ([Python-project](https://github.com/ArtemZaikin/Python-project)).
-- Артефакты тестирования, созданные при прохождении хакатона (https://drive.google.com/drive/folders/1h23hYD5GqKMugviQxok6dyNNVbRjOIne)
+- Артефакты тестирования, созданные при прохождении хакатона (https://drive.google.com/drive/folders/1h23hYD5GqKMugviQxok6dyNNVbRjOIne).
